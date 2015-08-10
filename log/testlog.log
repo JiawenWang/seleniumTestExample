@@ -1,0 +1,882 @@
+2015-07-22 11:50:02,557 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 11:50:03,478 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 11:50:03,478 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 11:50:03,907 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 11:51:58,784 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 11:51:59,672 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 11:51:59,672 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 11:52:00,105 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 14:10:13,614 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 14:10:14,696 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 14:10:14,697 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 14:10:15,058 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 14:51:37,680 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 14:51:38,729 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 14:51:38,730 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 14:51:39,126 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 14:52:30,432 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 14:52:31,168 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 14:52:31,168 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 14:52:31,552 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 14:52:33,482 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 14:52:47,119 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 14:52:47,863 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 14:52:47,863 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 14:52:48,214 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 14:52:50,414 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 14:53:46,688 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 14:53:47,461 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 14:53:47,461 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 14:53:47,704 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 14:53:49,805 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 15:00:29,283 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 15:00:30,087 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 15:00:30,087 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 15:00:30,467 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 15:00:32,715 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 15:00:32,769 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-22 15:00:32,803 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-22 15:28:34,235 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 15:28:34,960 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 15:28:34,960 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 15:28:35,336 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 15:28:37,412 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 15:28:37,478 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-22 15:28:38,501 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-22 15:28:38,604 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-22 15:28:38,738 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-22 15:37:36,472 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 15:37:37,385 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 15:37:37,386 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 15:37:37,624 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 15:38:44,066 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 15:38:44,917 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 15:38:44,918 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 15:38:45,255 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 15:38:47,244 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 15:38:47,280 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-22 15:38:48,301 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-22 15:38:48,392 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-22 15:38:48,554 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-22 15:48:56,527 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 15:48:57,770 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 15:48:57,770 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 15:48:58,151 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 15:49:00,474 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 15:49:00,545 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-22 15:49:01,569 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-22 15:49:01,686 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-22 15:49:01,827 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-22 15:49:01,933 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-22 15:49:32,974 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 15:49:33,829 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 15:49:33,829 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 15:49:34,165 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 15:49:36,002 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 15:49:36,086 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-22 15:49:37,107 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-22 15:49:37,205 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-22 15:49:37,346 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-22 15:49:37,455 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-22 15:49:37,509 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-22 15:55:42,752 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 15:55:43,583 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 15:55:43,583 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 15:55:43,942 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 15:55:45,936 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 15:55:46,015 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-22 15:55:47,036 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-22 15:55:47,131 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-22 15:55:47,255 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-22 15:55:47,357 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-22 15:55:47,423 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-22 16:19:57,833 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 16:19:58,617 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 16:19:58,617 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 16:19:58,998 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 16:19:59,493 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 16:20:00,801 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-22 16:20:01,825 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-22 16:20:01,940 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-22 16:20:02,084 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-22 16:20:02,215 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-22 16:20:02,271 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-22 16:20:02,794 - com.app.functions.Step1_SignIn -INFO - login failed
+2015-07-22 16:21:05,268 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 16:21:06,031 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 16:21:06,032 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 16:21:06,394 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 16:21:08,350 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 16:21:08,433 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-22 16:21:09,462 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-22 16:21:09,579 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-22 16:21:09,721 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-22 16:21:09,865 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-22 16:21:09,919 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-22 16:21:13,077 - com.app.functions.Step1_SignIn -INFO - login failed
+2015-07-22 16:22:13,093 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 16:22:13,914 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 16:22:13,914 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 16:22:14,263 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 16:22:16,187 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 16:22:16,230 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-22 16:22:17,256 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-22 16:22:17,350 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-22 16:22:17,479 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-22 16:22:17,604 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-22 16:22:17,667 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-22 16:22:18,105 - com.app.functions.Step1_SignIn -INFO - Hi,
+2015-07-22 16:22:18,198 - com.app.functions.Step1_SignIn -INFO - login failed
+2015-07-22 16:23:16,904 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 16:23:17,788 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 16:23:17,789 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 16:23:18,148 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 16:23:20,653 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 16:23:20,694 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-22 16:23:21,723 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-22 16:23:21,857 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-22 16:23:21,989 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-22 16:23:22,133 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-22 16:23:22,191 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-22 16:23:25,089 - com.app.functions.Step1_SignIn -INFO - the text is: Hi, end
+2015-07-22 16:23:25,112 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-22 16:23:52,157 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 16:23:54,158 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 16:23:54,159 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 16:23:54,508 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 16:23:56,056 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 16:23:57,091 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-22 16:23:58,115 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-22 16:23:58,208 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-22 16:23:58,326 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-22 16:23:58,427 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-22 16:23:58,470 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-22 16:23:58,869 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi," end
+2015-07-22 16:23:58,912 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-22 16:57:17,715 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 16:57:18,633 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 16:57:18,633 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 16:57:19,007 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 16:57:21,015 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 16:57:21,101 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-22 16:57:22,125 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-22 16:57:22,234 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-22 16:57:22,367 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-22 16:57:22,510 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-22 16:57:22,550 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-22 16:57:25,476 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi," end
+2015-07-22 16:57:25,591 - com.app.functions.Step1_SignIn -ERROR - login failed
+2015-07-22 17:08:01,685 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-22 17:08:02,599 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-22 17:08:02,599 - jUnit.TestFunc -INFO - browser is opened
+2015-07-22 17:08:02,994 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-22 17:08:05,146 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-22 17:08:05,227 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-22 17:08:06,248 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-22 17:08:06,358 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-22 17:08:06,501 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-22 17:08:06,628 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-22 17:08:06,686 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-22 17:08:07,124 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-22 17:08:07,195 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 10:48:47,226 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 10:48:48,042 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 10:48:48,043 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 10:48:48,280 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 10:48:50,407 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 10:48:50,500 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 10:48:51,522 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 10:48:51,626 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 10:48:51,783 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 10:48:51,878 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 10:48:51,926 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 10:48:52,331 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 10:48:52,391 - com.app.functions.Step1_SignIn -ERROR - login failed
+2015-07-23 11:27:38,370 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 11:27:39,279 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 11:27:39,279 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 11:27:39,361 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 11:27:41,976 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 11:27:43,027 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 11:27:44,050 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 11:27:44,155 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 11:27:44,279 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 11:27:44,388 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 11:27:44,441 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 11:27:44,836 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 11:27:44,936 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 11:37:46,943 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 11:37:48,177 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 11:37:48,178 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 11:37:48,500 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 11:37:50,699 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 11:37:50,743 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 11:37:51,767 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 11:37:51,872 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 11:37:52,025 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 11:37:52,135 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 11:37:52,198 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 11:37:52,614 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 11:37:52,694 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 11:39:25,762 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 11:39:26,680 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 11:39:26,680 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 11:39:26,886 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 11:39:28,933 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 11:39:29,009 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 11:39:30,032 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 11:39:30,134 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 11:39:30,264 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 11:39:30,394 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 11:39:30,431 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 11:39:30,889 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 11:39:30,931 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 11:40:07,185 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 11:40:07,907 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 11:40:07,908 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 11:40:08,245 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 11:40:12,025 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 11:40:12,070 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 11:40:13,087 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 11:40:13,169 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 11:40:13,288 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 11:40:13,397 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 11:40:13,468 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 11:40:13,832 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 11:40:13,889 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 11:43:49,843 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 11:43:50,616 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 11:43:50,616 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 11:43:50,953 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 11:43:52,950 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 11:43:53,020 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 11:43:54,035 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 11:43:54,136 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 11:43:54,266 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 11:43:54,367 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 11:43:54,409 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 11:43:54,860 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 11:43:54,910 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 11:44:39,092 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 11:44:39,829 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 11:44:39,829 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 11:44:40,191 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 11:44:42,050 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 11:44:42,094 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 11:44:43,111 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 11:44:43,188 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 11:44:43,311 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 11:44:43,402 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 11:44:43,443 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 11:44:44,001 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 11:44:44,037 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 11:52:27,665 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 11:52:28,508 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 11:52:28,508 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 11:52:28,838 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 11:52:30,436 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 11:52:30,469 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 11:52:31,489 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 12:07:59,831 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 12:08:00,635 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 12:08:00,635 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 12:08:01,025 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 12:08:05,662 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 12:08:05,693 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 12:08:06,714 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 12:08:06,817 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 12:08:06,950 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 12:08:07,088 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 12:08:07,129 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 12:08:07,554 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 12:08:07,677 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 12:11:37,894 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 12:11:39,012 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 12:11:39,013 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 12:11:39,325 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 12:11:41,113 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 12:11:41,194 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 12:11:42,211 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 12:11:42,299 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 12:11:42,434 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 12:11:42,557 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 12:11:42,607 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 12:11:42,991 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 12:11:43,158 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 12:12:02,250 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 12:12:03,497 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 12:12:03,497 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 12:12:03,714 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 12:12:04,374 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 12:12:06,899 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 12:12:07,915 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 12:12:08,001 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 12:12:08,125 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 12:12:08,220 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 12:12:08,254 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 12:12:08,695 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 12:12:08,900 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 12:12:50,605 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 12:12:51,351 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 12:12:51,352 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 12:12:51,707 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 12:12:52,166 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 12:12:53,261 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 12:12:54,285 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 12:12:54,390 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 12:12:54,531 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 12:12:54,650 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 12:12:54,696 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 12:12:55,233 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 12:12:55,297 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 13:55:58,279 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 13:55:59,124 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 13:55:59,124 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 13:55:59,471 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 13:56:01,406 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 13:56:01,506 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 13:56:02,531 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 13:56:02,650 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 13:56:02,782 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 13:56:02,936 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 13:56:03,029 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 13:56:03,527 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 13:56:03,588 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 14:02:22,938 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 14:02:23,703 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 14:02:23,703 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 14:02:24,054 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 14:02:25,142 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 14:02:26,226 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 14:02:27,244 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 14:02:27,348 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 14:02:27,476 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 14:02:27,629 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 14:02:27,674 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 14:02:28,179 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 14:02:28,252 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 14:02:28,627 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-23 14:02:29,927 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-23 14:02:29,983 - com.app.functions.Step2_AddItems -INFO - product list size is: "24"
+2015-07-23 14:02:30,549 - com.app.functions.Step2_AddItems -INFO - product selection is done
+2015-07-23 14:02:30,820 - com.app.functions.Step3_Checkout -INFO - start to check out
+2015-07-23 14:04:23,835 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 14:04:24,569 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 14:04:24,569 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 14:04:24,931 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 14:04:25,937 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 14:04:27,012 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 14:04:28,034 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 14:04:28,123 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 14:04:28,262 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 14:04:28,383 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 14:04:28,436 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 14:04:28,822 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 14:04:28,941 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 14:04:29,312 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-23 14:04:30,708 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-23 14:04:30,749 - com.app.functions.Step2_AddItems -INFO - product list size is: "24"
+2015-07-23 14:04:31,256 - com.app.functions.Step2_AddItems -INFO - product selection is done
+2015-07-23 14:04:31,460 - com.app.functions.Step3_Checkout -INFO - start to check out
+2015-07-23 14:06:21,288 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 14:06:22,242 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 14:06:22,242 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 14:06:22,326 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 14:06:25,357 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 14:06:28,260 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 14:06:29,280 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 14:06:29,410 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-23 14:06:32,548 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-23 14:06:32,581 - com.app.functions.Step2_AddItems -INFO - product list size is: "24"
+2015-07-23 14:06:32,926 - com.app.functions.Step2_AddItems -INFO - product selection is done
+2015-07-23 14:06:33,009 - com.app.functions.Step3_Checkout -INFO - start to check out
+2015-07-23 14:06:43,032 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-23 14:06:58,779 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 14:06:59,659 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 14:06:59,659 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 14:07:00,247 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 14:07:00,654 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 14:07:01,910 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 14:07:02,928 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 14:07:03,027 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 14:07:03,164 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 14:07:03,268 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 14:07:03,314 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 14:07:03,731 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 14:07:03,853 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 14:07:04,186 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-23 14:07:05,446 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-23 14:07:05,503 - com.app.functions.Step2_AddItems -INFO - product list size is: "24"
+2015-07-23 14:07:06,081 - com.app.functions.Step2_AddItems -INFO - product selection is done
+2015-07-23 14:07:06,270 - com.app.functions.Step3_Checkout -INFO - start to check out
+2015-07-23 14:07:16,280 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-23 14:17:37,355 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 14:17:38,125 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 14:17:38,126 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 14:17:38,483 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 14:17:48,763 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-23 14:17:59,358 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-23 14:18:17,070 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 14:18:17,843 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 14:18:17,843 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 14:18:18,198 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 14:18:20,218 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 14:18:20,260 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 14:18:21,289 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 14:18:21,393 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-23 14:18:23,646 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-23 14:18:23,719 - com.app.functions.Step2_AddItems -INFO - product list size is: "24"
+2015-07-23 14:18:23,719 - com.app.functions.Step2_AddItems -INFO - initial prodNum = 0
+2015-07-23 14:18:23,748 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-23 14:18:23,829 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:18:23,951 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:18:24,086 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:18:24,114 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-23 14:18:24,167 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:18:24,210 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:18:24,269 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:18:24,292 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-23 14:18:24,333 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:18:24,400 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:18:24,437 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:18:24,438 - com.app.functions.Step2_AddItems -INFO - product selection is done
+2015-07-23 14:18:24,629 - com.app.functions.Step3_Checkout -INFO - start to check out
+2015-07-23 14:18:34,657 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-23 14:19:14,652 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 14:19:15,741 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 14:19:15,741 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 14:19:16,369 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 14:19:18,682 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 14:19:18,735 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 14:19:19,757 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 14:19:19,860 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 14:19:20,010 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 14:19:20,161 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 14:19:20,210 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 14:19:20,612 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 14:19:20,651 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 14:20:03,544 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 14:20:04,847 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 14:20:04,847 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 14:20:05,238 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 14:20:06,268 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 14:20:06,504 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 14:20:08,627 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 14:20:08,720 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 14:20:08,859 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 14:20:08,984 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 14:20:09,039 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 14:20:09,390 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 14:20:09,544 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 14:20:09,861 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-23 14:20:12,198 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-23 14:20:12,238 - com.app.functions.Step2_AddItems -INFO - product list size is: "24"
+2015-07-23 14:20:12,238 - com.app.functions.Step2_AddItems -INFO - initial prodNum = 0
+2015-07-23 14:20:12,285 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-23 14:20:12,364 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:20:12,434 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:20:12,496 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:20:12,544 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:20:12,608 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:20:12,631 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-23 14:20:12,693 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:20:12,743 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:20:12,801 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:20:12,846 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:20:12,897 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:20:12,911 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-23 14:20:12,959 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:20:12,995 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:20:13,027 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:20:13,067 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:20:13,104 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:20:13,104 - com.app.functions.Step2_AddItems -INFO - product selection is done
+2015-07-23 14:20:13,294 - com.app.functions.Step3_Checkout -INFO - start to check out
+2015-07-23 14:20:23,326 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-23 14:21:50,558 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 14:21:51,477 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 14:21:51,477 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 14:21:51,687 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 14:21:52,141 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 14:21:53,263 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 14:21:54,281 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 14:21:54,383 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 14:21:54,562 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 14:21:54,722 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 14:21:54,798 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 14:21:55,349 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 14:21:55,383 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 14:21:55,678 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-23 14:21:56,862 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-23 14:21:56,904 - com.app.functions.Step2_AddItems -INFO - product list size is: "24"
+2015-07-23 14:21:56,904 - com.app.functions.Step2_AddItems -INFO - initial prodNum = 0
+2015-07-23 14:21:56,923 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-23 14:21:57,002 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:57,049 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:57,107 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:57,193 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:57,251 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:57,317 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:57,359 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:57,426 - com.app.functions.Step2_AddItems -INFO - products element is found: [B@69f1a286
+2015-07-23 14:21:57,527 - com.app.functions.Step2_AddItems -INFO - Add to cart btn is clicked on: 1
+ADD TO CART
+Tell me when it's on sale
+2015-07-23 14:21:57,749 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:57,769 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-23 14:21:57,844 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:57,886 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:57,970 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:58,011 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:58,076 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:58,126 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:58,163 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:58,210 - com.app.functions.Step2_AddItems -INFO - products element is found: [B@46b61c56
+2015-07-23 14:21:58,290 - com.app.functions.Step2_AddItems -INFO - Add to cart btn is clicked on: 1
+ADD TO CART
+Tell me when it's on sale
+2015-07-23 14:21:58,426 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:58,475 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-23 14:21:58,545 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:58,613 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:58,651 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:58,691 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:58,729 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:58,770 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:58,802 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:58,839 - com.app.functions.Step2_AddItems -INFO - products element is found: [B@4f3bbf68
+2015-07-23 14:21:58,899 - com.app.functions.Step2_AddItems -INFO - Add to cart btn is clicked on: 1
+ADD TO CART
+Tell me when it's on sale
+2015-07-23 14:21:59,049 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:59,107 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-23 14:21:59,183 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:59,228 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:59,262 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:59,302 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:59,340 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:59,377 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:59,410 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:59,445 - com.app.functions.Step2_AddItems -INFO - products element is found: [B@600b90df
+2015-07-23 14:21:59,492 - com.app.functions.Step2_AddItems -INFO - Add to cart btn is clicked on: 1
+ADD TO CART
+Tell me when it's on sale
+2015-07-23 14:21:59,621 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:59,658 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-23 14:21:59,715 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:59,788 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:59,829 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:59,873 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:59,922 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:59,957 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:21:59,993 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:22:00,083 - com.app.functions.Step2_AddItems -INFO - products element is found: [B@73cd37c0
+2015-07-23 14:22:00,134 - com.app.functions.Step2_AddItems -INFO - Add to cart btn is clicked on: 1
+ADD TO CART
+Tell me when it's on sale
+2015-07-23 14:22:00,286 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:22:00,286 - com.app.functions.Step2_AddItems -INFO - product selection is done
+2015-07-23 14:22:00,563 - com.app.functions.Step3_Checkout -INFO - start to check out
+2015-07-23 14:22:10,574 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-23 14:24:34,275 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-23 14:24:35,113 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-23 14:24:35,113 - jUnit.TestFunc -INFO - browser is opened
+2015-07-23 14:24:35,536 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-23 14:24:37,880 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-23 14:24:38,007 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-23 14:24:39,030 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-23 14:24:39,144 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-23 14:24:39,294 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-23 14:24:39,470 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-23 14:24:39,517 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-23 14:24:40,042 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-23 14:24:40,069 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-23 14:24:40,462 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-23 14:24:43,598 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-23 14:24:43,644 - com.app.functions.Step2_AddItems -INFO - product list size is: "24"
+2015-07-23 14:24:43,645 - com.app.functions.Step2_AddItems -INFO - initial prodNum = 0
+2015-07-23 14:24:43,666 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-23 14:24:43,743 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:43,806 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:43,879 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:43,953 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:44,024 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:44,073 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:44,126 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:44,185 - com.app.functions.Step2_AddItems -INFO - products element is found: [B@69f1a286
+2015-07-23 14:24:44,294 - com.app.functions.Step2_AddItems -INFO - Add to cart btn is clicked on: 1
+ADD TO CART
+Tell me when it's on sale
+2015-07-23 14:24:44,421 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:44,466 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-23 14:24:44,553 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:44,634 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:44,677 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:44,720 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:44,776 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:44,824 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:44,866 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:44,925 - com.app.functions.Step2_AddItems -INFO - products element is found: [B@46b61c56
+2015-07-23 14:24:45,057 - com.app.functions.Step2_AddItems -INFO - Add to cart btn is clicked on: 1
+ADD TO CART
+Tell me when it's on sale
+2015-07-23 14:24:45,238 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-23 14:24:45,238 - com.app.functions.Step2_AddItems -INFO - product selection is done
+2015-07-23 14:24:45,552 - com.app.functions.Step3_Checkout -INFO - start to check out
+2015-07-23 14:24:55,563 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-24 12:03:07,209 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-24 12:03:08,568 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-24 12:03:08,569 - jUnit.TestFunc -INFO - browser is opened
+2015-07-24 12:03:08,827 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-24 12:03:19,076 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-24 12:03:29,682 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-24 12:03:36,455 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-24 12:03:37,181 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-24 12:03:37,181 - jUnit.TestFunc -INFO - browser is opened
+2015-07-24 12:03:37,551 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-24 12:03:39,504 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-24 12:03:39,587 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-24 12:03:40,605 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-24 12:03:40,696 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-24 12:03:40,835 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-24 12:03:40,929 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-24 12:03:40,964 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-24 12:03:41,634 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-24 12:03:41,720 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-24 12:03:42,103 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-24 12:03:43,353 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-24 12:03:43,390 - com.app.functions.Step2_AddItems -INFO - product list size is: "24"
+2015-07-24 12:03:43,390 - com.app.functions.Step2_AddItems -INFO - initial prodNum = 0
+2015-07-24 12:03:43,407 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-24 12:03:43,463 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:43,520 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:43,573 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:43,633 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:43,694 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:43,755 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:43,808 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:43,878 - com.app.functions.Step2_AddItems -INFO - products element is found: ADD TO CART
+2015-07-24 12:03:44,009 - com.app.functions.Step2_AddItems -INFO - Add to cart btn is clicked on: 1
+ADD TO C
+2015-07-24 12:03:44,120 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:44,149 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-24 12:03:44,249 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:44,341 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:44,382 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:44,420 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:44,457 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:44,493 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:44,556 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:44,619 - com.app.functions.Step2_AddItems -INFO - products element is found: ADD TO CART
+2015-07-24 12:03:44,702 - com.app.functions.Step2_AddItems -INFO - Add to cart btn is clicked on: 1
+ADD TO C
+2015-07-24 12:03:44,837 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:03:44,838 - com.app.functions.Step2_AddItems -INFO - product selection is done
+2015-07-24 12:03:45,087 - com.app.functions.Step3_Checkout -INFO - start to check out
+2015-07-24 12:04:41,686 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-24 12:04:42,436 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-24 12:04:42,437 - jUnit.TestFunc -INFO - browser is opened
+2015-07-24 12:04:42,770 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-24 12:04:44,805 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-24 12:04:44,856 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-24 12:04:45,880 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-24 12:04:45,971 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-24 12:04:46,125 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-24 12:04:46,230 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-24 12:04:46,292 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-24 12:04:46,790 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-24 12:04:46,838 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-24 12:04:47,201 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-24 12:04:48,472 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-24 12:04:48,510 - com.app.functions.Step2_AddItems -INFO - product list size is: "24"
+2015-07-24 12:04:48,510 - com.app.functions.Step2_AddItems -INFO - initial prodNum = 0
+2015-07-24 12:04:48,549 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-24 12:04:48,597 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:48,644 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:48,711 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:48,835 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:48,894 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:48,941 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:48,995 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:49,058 - com.app.functions.Step2_AddItems -INFO - products element is found: ADD TO CART
+2015-07-24 12:04:49,183 - com.app.functions.Step2_AddItems -INFO - Add to cart btn is clicked on: DD TO 
+2015-07-24 12:04:49,402 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:49,445 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-24 12:04:49,507 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:49,546 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:49,597 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:49,650 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:49,689 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:49,743 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:49,783 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:49,868 - com.app.functions.Step2_AddItems -INFO - products element is found: ADD TO CART
+2015-07-24 12:04:49,935 - com.app.functions.Step2_AddItems -INFO - Add to cart btn is clicked on: DD TO 
+2015-07-24 12:04:50,062 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:04:50,062 - com.app.functions.Step2_AddItems -INFO - product selection is done
+2015-07-24 12:04:50,318 - com.app.functions.Step3_Checkout -INFO - start to check out
+2015-07-24 12:05:00,329 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-24 12:05:29,539 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-24 12:05:30,448 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-24 12:05:30,448 - jUnit.TestFunc -INFO - browser is opened
+2015-07-24 12:05:30,666 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-24 12:05:32,720 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-24 12:05:32,775 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-24 12:05:33,796 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-24 12:05:33,898 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-24 12:05:34,038 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-24 12:05:34,137 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-24 12:05:34,172 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-24 12:05:34,694 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-24 12:05:34,788 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-24 12:05:35,199 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-24 12:05:36,543 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-24 12:05:36,613 - com.app.functions.Step2_AddItems -INFO - product list size is: "24"
+2015-07-24 12:05:36,613 - com.app.functions.Step2_AddItems -INFO - initial prodNum = 0
+2015-07-24 12:05:36,649 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-24 12:05:36,709 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:36,773 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:36,814 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:36,881 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:36,961 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:37,011 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:37,065 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:37,111 - com.app.functions.Step2_AddItems -INFO - products element is found: ADD TO CART
+2015-07-24 12:05:37,263 - com.app.functions.Step2_AddItems -INFO - Add to cart btn is clicked on: D TO 
+2015-07-24 12:05:37,439 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:37,481 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-24 12:05:37,578 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:37,623 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:37,659 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:37,704 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:37,740 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:37,793 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:37,833 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:37,885 - com.app.functions.Step2_AddItems -INFO - products element is found: ADD TO CART
+2015-07-24 12:05:38,000 - com.app.functions.Step2_AddItems -INFO - Add to cart btn is clicked on: D TO 
+2015-07-24 12:05:38,155 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 12:05:38,156 - com.app.functions.Step2_AddItems -INFO - product selection is done
+2015-07-24 12:05:38,529 - com.app.functions.Step3_Checkout -INFO - start to check out
+2015-07-24 12:05:48,539 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-24 13:15:54,586 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-24 13:15:55,491 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-24 13:15:55,491 - jUnit.TestFunc -INFO - browser is opened
+2015-07-24 13:15:55,961 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-24 13:15:58,212 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-24 13:15:58,300 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-24 13:15:59,322 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-24 13:15:59,449 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-24 13:15:59,620 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-24 13:15:59,734 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-24 13:15:59,795 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-24 13:16:00,352 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-24 13:16:00,411 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-24 13:16:00,798 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-24 13:16:02,224 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-24 13:16:02,245 - com.app.functions.Step2_AddItems -INFO - product list size is: "24"
+2015-07-24 13:16:02,245 - com.app.functions.Step2_AddItems -INFO - initial prodNum = 0
+2015-07-24 13:16:02,262 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-24 13:16:02,345 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:02,410 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:02,479 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:02,545 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:02,624 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:02,688 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:02,741 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:02,787 - com.app.functions.Step2_AddItems -INFO - products element is found: ADD TO CART
+2015-07-24 13:16:02,995 - com.app.functions.Step2_AddItems -INFO - Add to cart btn is clicked on: D TO 
+2015-07-24 13:16:03,181 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:03,231 - com.app.functions.Step2_AddItems -INFO - inital optNum = 0
+2015-07-24 13:16:03,346 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:03,387 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:03,435 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:03,486 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:03,529 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:03,578 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:03,621 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:03,689 - com.app.functions.Step2_AddItems -INFO - products element is found: ADD TO CART
+2015-07-24 13:16:03,748 - com.app.functions.Step2_AddItems -INFO - Add to cart btn is clicked on: D TO 
+2015-07-24 13:16:03,833 - com.app.functions.Step2_AddItems -INFO - No add button is clicked
+2015-07-24 13:16:03,834 - com.app.functions.Step2_AddItems -INFO - product selection is done
+2015-07-24 13:16:04,104 - com.app.functions.Step3_Checkout -INFO - start to check out
+2015-07-24 13:16:14,158 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-24 14:12:20,455 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-24 14:12:21,749 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-24 14:12:21,749 - jUnit.TestFunc -INFO - browser is opened
+2015-07-24 14:12:22,092 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-24 14:12:23,923 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-24 14:12:23,973 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-24 14:12:24,988 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-24 14:12:25,069 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-24 14:12:25,207 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-24 14:12:25,306 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-24 14:12:25,345 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-24 14:12:25,774 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-24 14:12:25,812 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-24 14:12:26,178 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-24 14:12:27,312 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-24 14:12:37,965 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-24 14:13:10,469 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-24 14:13:11,265 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-24 14:13:11,266 - jUnit.TestFunc -INFO - browser is opened
+2015-07-24 14:13:11,589 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-24 14:13:13,382 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-24 14:13:13,450 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-24 14:13:14,476 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-24 14:13:14,558 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-24 14:13:14,714 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-24 14:13:14,815 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-24 14:13:14,854 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-24 14:13:15,316 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-24 14:13:15,390 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-24 14:13:15,832 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-24 14:13:17,024 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-24 14:13:27,642 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-24 14:14:45,520 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-24 14:14:46,386 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-24 14:14:46,386 - jUnit.TestFunc -INFO - browser is opened
+2015-07-24 14:14:46,463 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-24 14:14:49,568 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-24 14:14:50,294 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-24 14:14:51,314 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-24 14:14:51,431 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-24 14:14:54,760 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-24 14:15:05,368 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-24 14:15:12,721 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-24 14:15:13,485 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-24 14:15:13,485 - jUnit.TestFunc -INFO - browser is opened
+2015-07-24 14:15:13,814 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-24 14:15:14,538 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-24 14:15:15,770 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-24 14:15:16,807 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-24 14:15:16,907 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-24 14:15:17,083 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-24 14:15:17,199 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-24 14:15:17,262 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-24 14:15:17,760 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-24 14:15:17,784 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-24 14:15:18,186 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-24 14:15:19,491 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-24 14:15:30,132 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-24 14:15:52,157 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-24 14:15:52,944 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-24 14:15:52,945 - jUnit.TestFunc -INFO - browser is opened
+2015-07-24 14:15:53,328 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-24 14:15:54,231 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-24 14:15:55,501 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-24 14:15:57,060 - com.app.functions.Step3_Checkout -ERROR - element can't find
+2015-07-24 14:16:04,544 - com.app.browserInvokes.OpenBrowser -INFO - Chrome will be used for testing according to the configuration
+2015-07-24 14:16:05,476 - com.app.browserInvokes.OpenBrowser -INFO - open the configured web site
+2015-07-24 14:16:05,476 - jUnit.TestFunc -INFO - browser is opened
+2015-07-24 14:16:05,706 - com.app.functions.Step1_SignIn -INFO - open the website
+2015-07-24 14:16:07,732 - com.app.functions.Step1_SignIn -INFO - login button element is found
+2015-07-24 14:16:07,786 - com.app.functions.Step1_SignIn -INFO - click login button
+2015-07-24 14:16:08,806 - com.app.functions.Step1_SignIn -INFO - email address input feild is found
+2015-07-24 14:16:08,930 - com.app.functions.Step1_SignIn -INFO - input email address
+2015-07-24 14:16:09,097 - com.app.functions.Step1_SignIn -INFO - password input feild is found
+2015-07-24 14:16:09,242 - com.app.functions.Step1_SignIn -INFO - sign in button is found
+2015-07-24 14:16:09,308 - com.app.functions.Step1_SignIn -INFO - click sign in button to login
+2015-07-24 14:16:09,788 - com.app.functions.Step1_SignIn -INFO - the text is: "Hi,"
+2015-07-24 14:16:09,855 - com.app.functions.Step1_SignIn -INFO - login successfully
+2015-07-24 14:16:10,671 - com.app.functions.Step2_AddItems -INFO - start to select item in on-sale page
+2015-07-24 14:16:12,107 - com.app.functions.Step2_AddItems -INFO - the productList element is found: 
+2015-07-24 14:16:12,824 - com.app.functions.Step3_Checkout -ERROR - element can't find
